@@ -1,0 +1,221 @@
+[
+  {
+    "question": "Lily started on the ground floor of her house (represented by 0 on the number line). She took the stairs up 3 floors and then went down 2 floors to find her bag to pack stuff for camping. What floor is she on now?",
+    "options": [
+      "1st floor",
+      "Ground floor",
+      "3rd floor",
+      "2nd floor"
+    ],
+    "correct": 0,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+    "question": "During her mountain adventure, Lily comes across a group of squirrels near the lake. Initially, she sees 19 squirrels playing around. As she approaches, 5 squirrels quickly dart into the bushes, leaving the remaining squirrels still visible. After a while, 7 more squirrels come out of the bushes to join the visible group. How many squirrels are now visible to Lily?",
+    "options": [
+      "7",
+      "-7",
+      "21",
+      "14"
+    ],
+    "correct": 2,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+    "question": "They started at their campsite which was at an elevation of 300 meters above sea level. They climbed up 150 meters, then descended 70 meters to take a break at a scenic spot, and finally climbed another 120 meters to reach the hill's summit. What was their final elevation at the hill's summit?",
+    "options": [
+      "400 meters",
+      "500 meters",
+      "600 meters",
+      "300 meters"
+    ],
+    "correct": 1,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+    "question": "During Lily's camping adventure, she cooked dinner for her friends using 18 potatoes. After roasting some over the fire, she noticed 7 potatoes had burned so she removed them. Then, she added 12 more potatoes to cook. How many potatoes did Lily have left to serve her hungry friends?",
+    "options": [
+      "23",
+      "6",
+      "12",
+      "18"
+    ],
+    "correct": 0,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+    "question": "Lily is playing a game where she moves along a number line. She starts at position 50 and moves 25 units to the right. Then, she moves 35 units to the left. Finally, she moves 20 units to the right.<br><br> What is Lily's final position on the number line, and what is its additive inverse?",
+    "options": [
+      "Final position: 20, Additive Inverse: -20",
+      "Final position: 40, Additive Inverse: -40",
+      "Final position: 60, Additive Inverse: -60",
+      "Final position: 10, Additive Inverse: -10"
+    ],
+    "correct": 2,
+      "img": "./assests/images/5.jpg"
+  },
+  {
+    "question": "In their journey, Alex, Sarah and Lily found themselves at a crossroads where a sign read: Are (661) + (-121) and (-121) + (661) equal?",
+    "options": [
+      "Yes, they are equal",
+      "No, they are not equal",
+      "They might be equal",
+      "It cannot be determined"
+    ],
+    "correct": 0,
+      "img": "./assests/images/6.jpg"
+  },
+  {
+    "question": "In the depths of their contemplation, they realised that the problem on the bridge represented a fundamental mathematical concept. It was a test of their understanding of properties that govern numbers and operations. After some reflection, Sarah exclaimed, “It's the property where the order of the numbers doesn't change the result of the addition.\"<br><br> Which property do Sarah and Alex believe is being illustrated by the equation on the bridge?",
+    "options": [
+      "Associative Property",
+      "Commutative Property",
+      "Distributive Property",
+      "Identity Property"
+    ],
+    "correct": 1,
+      "img": "./assests/images/7.jpg"
+  },
+  {
+    "question": "During their camping trip, Lily, Sarah, and Alex encounter a confusing signpost with the numbers 951 and 122. Alex suggests using the commutative property of addition to find their way back to camp. Which equation correctly demonstrates this property with the numbers 951 and 122?",
+    "options": [
+      "951 + 122 = 122 + 951",
+      "951 + 122 = 951 - 122",
+      "951 + 122 = 122 - 951",
+      "None of the above"
+    ],
+    "correct": 0,
+      "img": "./assests/images/8.jpg"
+  },
+  {
+    "question": "During the adventure they stumbled upon a hidden treasure chest, they opened it and found a collection of 3-digit numbers written on ancient scrolls. They decided to solve some math puzzles using these numbers. (991) + (-357) + 299 =?",
+    "options": [
+      "335",
+      "933",
+      "-933",
+      "-335"
+    ],
+    "correct": 1,
+      "img": "./assests/images/9.jpg"
+  },
+  {
+    "question": "During their camping adventure,Lily and her friends received a mysterious map with the following instructions: <br><br>1) Start at the ancient oak tree located at position 871 on the treasure map. <br><br> 2) Move 420 steps backward to the left, as indicated by the negative sign (-420). <br><br> 3) Then, move 701 steps forward to the right. <br><br>Lily was trying to figure out where they would end up on the map but got stuck. She asked Sarah to help her. Can you, along with Sarah, help Lily find their final position on the treasure map?",
+    "options": [
+      "1152",
+      "590",
+      "-1152",
+      "-590"
+    ],
+    "correct": 0,
+      "img": "./assests/images/10.jpg"
+  },
+  {
+    "question": "Lily's water bottle holds 1000 millilitres of water. If she drinks 211 millilitres during the hike and then refills it with 50 millilitres, and again drinks 200 millilitres, how much water does she have in her bottle now?",
+    "options": [
+      "1039",
+      "639",
+      "739",
+      "539"
+    ],
+    "correct": 1,
+      "img": "./assests/images/11.jpg"
+  },
+  {
+    "question": "During their camping trip, Lily's group tracked their gains and losses. They gained 90 minutes of extra sleep due to the peaceful night, 22 minutes of daylight for an early start, and 18 minutes of leisure time for storytelling by the campfire. However, they lost 12 minutes to a sudden rainstorm and 5 minutes to a temporary detour. Arrange these time values in descending order. Which sequence is correct?",
+    "options": [
+      "+90, +22, +18, -5, -12",
+      "+22, +90, +18, -5, -12",
+      "-12, -5, +18, +22, +90",
+      "-12, -5, +22, +18, +90"
+    ],
+    "correct": 0,
+      "img": "./assests/images/12.jpg"
+  },
+  {
+    "question": "While camping, Lily and her friends decided to play a game they found in an old travel book. The game involved arranging logs around the campfire in different patterns to see how many different ways they could set up their seating. <br><br>The book provided an example using the equation ((-18) + 10) + 4 = -18 + (10 + 4) to explain one of the rules of the game, but it didn't name the rule. According to you, which property does this equation demonstrate?",
+    "options": [
+      "Associative Property",
+      "Commutative Property",
+      "Additive Inverse",
+      "Identity Property"
+    ],
+    "correct": 0,
+      "img": "./assests/images/13.jpg"
+  },
+  {
+    "question": "At the campsite, Alex recorded a temperature that is the additive inverse of 33 degrees Celsius and Sarah recorded a temperature of -32 degrees Celsius. How much colder was the temperature that Sarah recorded?",
+    "options": [
+      "1°C",
+      "65°C",
+      "-1°C",
+      "-65°C"
+    ],
+    "correct": 2,
+      "img": "./assests/images/14.jpg"
+  },
+  {
+    "question": "The hidden chest has one more scroll with a puzzle inside it which asks to add (-1234) and (-453) and then subtract it with the additive inverse of -2222.",
+    "options": [
+      "3909",
+      "-3909",
+      "-535",
+      "535"
+    ],
+    "correct": 1,
+      "img": "./assests/images/15.jpg"
+  },
+  {
+    "question": "After an adventurous camping trip, Lily and her friends decide to clean up their campsite before heading home. Sarah picks up 21 pieces, while Alex collects 37 pieces. Meanwhile, Lily picks up 80 pieces of trash. However, as they are cleaning, they accidentally drop 50 pieces of trash back onto the ground. <br><br>What is the total number of pieces of trash they have collected?",
+    "options": [
+      "188",
+      "88",
+      "138",
+      "-138"
+    ],
+    "correct": 1,
+      "img": "./assests/images/16.jpg"
+  },
+  {
+    "question": "The leaderboard shows that Lilly score was 3 on her first round and -3 on her second round. What was Beth's total score for the two rounds?",
+    "options": [
+      "-1",
+      "1",
+      "0",
+      "6"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Lily and Alex are playing Dumb Charades game at their campsite. The competition includes positive and negative marking. In the first round Alex scored 60, in the second round -20, in the third round 45 and in foorth round  -10. What is the total score?",
+    "options": [
+      "135 minutes",
+      "35 minutes",
+      "65 minutes",
+      "75 minutes"
+    ],
+    "correct": 3,
+      "img": "./assests/images/18.jpg"
+  },
+  {
+    "question": "While hiking, Lily and her friends encounter a mysterious phenomenon where positive integers are represented by negative signs and negative integers are represented by positive signs. If Lily starts at position -500 metres above sea level and then ascends 800 metres, what is her final elevation in this peculiar scenario?",
+    "options": [
+      "-300",
+      "300",
+      "1300",
+      "-1300"
+    ],
+    "correct": 0,
+      "img": "./assests/images/19.jpg"
+  },
+  {
+    "question": "While exploring the campsite, Lily stumbled upon a stash of firewood. She counted 8,000 logs in total. However, her friends Alex and Sarah needed some firewood too, so she decided to share 3,320 logs with Alex and 2,230 logs with Sarah. How many logs of firewood did Lily have left for her campfire?",
+    "options": [
+      "13,550",
+      "5,550",
+      "2,450",
+      "1,090"
+    ],
+    "correct": 2,
+      "img": "./assests/images/20.jpg"
+  }
+]
